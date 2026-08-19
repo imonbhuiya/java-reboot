@@ -8,9 +8,9 @@ public class PhoneBook {
 
         HashMap<String, String> phoneBook = new HashMap<>();
 
-        phoneBook.put("Imon", "+491919191992");
-        phoneBook.put("Rahim", "+491234566766");
-        phoneBook.put("Karim", "+492327373664");
+        phoneBook.put("Imon ", " +491919191992");
+        phoneBook.put("Rahim ", " +491234566766");
+        phoneBook.put("Karim ", " +492327373664");
 
         System.out.println(phoneBook);
 
