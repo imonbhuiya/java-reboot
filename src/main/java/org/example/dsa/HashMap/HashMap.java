@@ -1,4 +1,4 @@
-package org.example.dsa.hashMap;
+package org.example.dsa.HashMap;
 
 public class HashMap<I extends Number, I1 extends Number> {
     public static void main(String[] args) {

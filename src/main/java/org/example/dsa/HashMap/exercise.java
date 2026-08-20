@@ -1,7 +1,7 @@
-package org.example.dsa.hashMap;
+package org.example.dsa.HashMap;
 import java.util.HashMap;
 
-public class CharacterFrequency {
+public class exercise {
     public static void main(String[] args) {
 
         HashMap<Character, Integer> counts = new HashMap<>();
