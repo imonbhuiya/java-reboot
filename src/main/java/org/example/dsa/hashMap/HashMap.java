@@ -1,6 +1,6 @@
-package org.example.dsa.heapMap;
+package org.example.dsa.hashMap;
 
-public class HashMap {
+public class HashMap<I extends Number, I1 extends Number> {
     public static void main(String[] args) {
 
         java.util.HashMap<String, Integer> students = new java.util.HashMap<>();
