@@ -14,18 +14,5 @@ This repository contains my complete Java learning journey.
 - Exception Handling
 - File Handling
 - DSA
-- LeetCode
-- Spring Boot (Coming Soon)
 
-## Goal
 
-Become a Java Backend Engineer.
-
-## Progress
-
-- [x] Java Basics
-- [x] Arrays
-- [ ] OOP
-- [ ] Collections
-- [ ] DSA
-- [ ] Spring Boot
