@@ -1,4 +1,4 @@
-package org.example.oop;
+package org.example.oop.ClssConstractorMethod;
 
 
 public class Student {
@@ -17,7 +17,6 @@ public class Student {
          this.name = name;
 
      }
-
 
      //Constructor
     public Student(String name, int age, String department) {
