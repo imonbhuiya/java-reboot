@@ -1,6 +1,5 @@
 package org.example.oop.Inheritance;
 
-
 public class Animal {
 
     void eat(){
@@ -13,7 +12,5 @@ public class Animal {
         dog.bark();
 
     }
-
-
 }
 
