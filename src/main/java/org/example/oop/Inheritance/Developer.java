@@ -20,7 +20,6 @@ public class Developer extends Employee {
         System.out.println(dev1.name);
         System.out.println(dev1.age);
         System.out.println(dev1.programmingLanguage);
-
         dev1.work();
         dev1.writeCode();
     }
