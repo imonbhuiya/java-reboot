@@ -1,4 +1,4 @@
-package org.example.dsa.HashMap;
+package org.example.dsa.HashMap.AllPattern;
 
 import java.util.HashMap;
 

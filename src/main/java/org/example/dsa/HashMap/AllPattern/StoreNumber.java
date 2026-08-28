@@ -1,4 +1,5 @@
-package org.example.dsa.HashMap;
+package org.example.dsa.HashMap.AllPattern;
+
 import java.util.HashMap;
 
 public class StoreNumber {
@@ -10,8 +11,7 @@ public class StoreNumber {
             int current = nums[i];
             if (counts.containsKey(current)) {
                 System.out.println("Duplicate found: " + current);
-            }
-            else {
+            } else {
                 counts.put(current, i);
             }
         }
