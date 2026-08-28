@@ -13,5 +13,5 @@ class Mother {
 }
 
 // ❌ NOT ALLOWED
-class Child extends Father, Mother {
-}
+//class Child extends Father, Mother {
+//}
