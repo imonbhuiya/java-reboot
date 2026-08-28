@@ -3,6 +3,7 @@ package org.example.dsa.HashMap.CharacterFrequency;
 import java.util.HashMap;
 
 public class Main {
+
     public static void main(String[] args) {
         String word = "banana";
 
