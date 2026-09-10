@@ -1,4 +1,4 @@
-package org.example.dsa.TwoSum;
+package org.example.dsa.HashMap.TwoSum;
 
 import java.util.HashMap;
 
@@ -12,14 +12,14 @@ class Solution {
             int needed = target - current;
 
             if (seen.containsKey(needed)) {
-                return new int[] { seen.get(needed), i };
+                return new int[]{seen.get(needed), i};
             }
 
             seen.put(current, i);
         }
         //return value...
 
-        return new int[] {};
+        return new int[]{};
     }
 }
 
