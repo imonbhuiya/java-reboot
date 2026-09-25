@@ -37,6 +37,6 @@ class Solution {
             max = Math.max(max, windowSum);
         }
 
-        return max / k;
+        return max;
     }
 }

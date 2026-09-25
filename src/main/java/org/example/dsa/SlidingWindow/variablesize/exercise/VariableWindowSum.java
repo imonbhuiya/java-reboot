@@ -2,7 +2,7 @@ package org.example.dsa.SlidingWindow.variablesize.exercise;
 
 public class VariableWindowSum {
     public static void main(String[] args) {
-        int[] nums = {2, 1, 2, 1, 1};
+        int[] nums = {2, 1, 5, 1, 2};
         int limit = 4;
         Solution solution = new Solution();
         int result = solution.solve(nums, limit);
